@@ -1,0 +1,30 @@
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution\Talabat.Repository\bin\Debug\net5.0\Talabat.Repository.deps.json
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution\Talabat.Repository\bin\Debug\net5.0\Talabat.Repository.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution\Talabat.Repository\bin\Debug\net5.0\Talabat.Repository.pdb
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution\Talabat.Repository\bin\Debug\net5.0\Talabat.Core.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution\Talabat.Repository\bin\Debug\net5.0\Talabat.Core.pdb
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution\Talabat.Repository\obj\Debug\net5.0\Talabat.Repository.csproj.AssemblyReference.cache
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution\Talabat.Repository\obj\Debug\net5.0\Talabat.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution\Talabat.Repository\obj\Debug\net5.0\Talabat.Repository.AssemblyInfoInputs.cache
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution\Talabat.Repository\obj\Debug\net5.0\Talabat.Repository.AssemblyInfo.cs
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution\Talabat.Repository\obj\Debug\net5.0\Talabat.Repository.csproj.CoreCompileInputs.cache
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution\Talabat.Repository\obj\Debug\net5.0\Talabat.Repository.csproj.CopyComplete
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution\Talabat.Repository\obj\Debug\net5.0\Talabat.Repository.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution\Talabat.Repository\obj\Debug\net5.0\refint\Talabat.Repository.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution\Talabat.Repository\obj\Debug\net5.0\Talabat.Repository.pdb
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution\Talabat.Repository\obj\Debug\net5.0\ref\Talabat.Repository.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.Repository\bin\Debug\net5.0\Talabat.Repository.deps.json
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.Repository\bin\Debug\net5.0\Talabat.Repository.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.Repository\bin\Debug\net5.0\Talabat.Repository.pdb
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.Repository\bin\Debug\net5.0\Talabat.Core.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.Repository\bin\Debug\net5.0\Talabat.Core.pdb
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.Repository\obj\Debug\net5.0\Talabat.Repository.csproj.AssemblyReference.cache
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.Repository\obj\Debug\net5.0\Talabat.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.Repository\obj\Debug\net5.0\Talabat.Repository.AssemblyInfoInputs.cache
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.Repository\obj\Debug\net5.0\Talabat.Repository.AssemblyInfo.cs
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.Repository\obj\Debug\net5.0\Talabat.Repository.csproj.CoreCompileInputs.cache
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.Repository\obj\Debug\net5.0\Talabat.Repository.csproj.CopyComplete
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.Repository\obj\Debug\net5.0\Talabat.Repository.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.Repository\obj\Debug\net5.0\refint\Talabat.Repository.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.Repository\obj\Debug\net5.0\Talabat.Repository.pdb
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.Repository\obj\Debug\net5.0\ref\Talabat.Repository.dll

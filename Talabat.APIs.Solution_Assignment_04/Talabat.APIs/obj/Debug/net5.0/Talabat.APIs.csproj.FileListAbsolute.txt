@@ -1,0 +1,174 @@
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution\Talabat.APIs\bin\Debug\net5.0\appsettings.Development.json
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution\Talabat.APIs\bin\Debug\net5.0\appsettings.json
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution\Talabat.APIs\bin\Debug\net5.0\Talabat.APIs.exe
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution\Talabat.APIs\bin\Debug\net5.0\Talabat.APIs.deps.json
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution\Talabat.APIs\bin\Debug\net5.0\Talabat.APIs.runtimeconfig.json
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution\Talabat.APIs\bin\Debug\net5.0\Talabat.APIs.runtimeconfig.dev.json
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution\Talabat.APIs\bin\Debug\net5.0\Talabat.APIs.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution\Talabat.APIs\bin\Debug\net5.0\Talabat.APIs.pdb
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution\Talabat.APIs\bin\Debug\net5.0\Humanizer.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution\Talabat.APIs\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution\Talabat.APIs\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution\Talabat.APIs\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution\Talabat.APIs\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution\Talabat.APIs\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution\Talabat.APIs\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution\Talabat.APIs\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution\Talabat.APIs\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution\Talabat.APIs\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution\Talabat.APIs\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution\Talabat.APIs\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution\Talabat.APIs\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution\Talabat.APIs\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution\Talabat.APIs\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution\Talabat.APIs\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution\Talabat.APIs\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution\Talabat.APIs\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution\Talabat.APIs\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution\Talabat.APIs\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution\Talabat.APIs\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution\Talabat.APIs\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution\Talabat.APIs\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution\Talabat.APIs\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution\Talabat.APIs\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution\Talabat.APIs\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution\Talabat.APIs\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution\Talabat.APIs\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution\Talabat.APIs\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution\Talabat.APIs\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution\Talabat.APIs\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution\Talabat.APIs\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution\Talabat.APIs\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution\Talabat.APIs\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution\Talabat.APIs\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution\Talabat.APIs\bin\Debug\net5.0\Talabat.Core.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution\Talabat.APIs\bin\Debug\net5.0\Talabat.Repository.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution\Talabat.APIs\bin\Debug\net5.0\Talabat.Repository.pdb
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution\Talabat.APIs\bin\Debug\net5.0\Talabat.Core.pdb
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution\Talabat.APIs\obj\Debug\net5.0\Talabat.APIs.csproj.AssemblyReference.cache
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution\Talabat.APIs\obj\Debug\net5.0\Talabat.APIs.GeneratedMSBuildEditorConfig.editorconfig
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution\Talabat.APIs\obj\Debug\net5.0\Talabat.APIs.AssemblyInfoInputs.cache
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution\Talabat.APIs\obj\Debug\net5.0\Talabat.APIs.AssemblyInfo.cs
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution\Talabat.APIs\obj\Debug\net5.0\Talabat.APIs.csproj.CoreCompileInputs.cache
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution\Talabat.APIs\obj\Debug\net5.0\Talabat.APIs.MvcApplicationPartsAssemblyInfo.cs
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution\Talabat.APIs\obj\Debug\net5.0\Talabat.APIs.MvcApplicationPartsAssemblyInfo.cache
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution\Talabat.APIs\obj\Debug\net5.0\scopedcss\bundle\Talabat.APIs.styles.css
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution\Talabat.APIs\obj\Debug\net5.0\staticwebassets\Talabat.APIs.StaticWebAssets.Manifest.cache
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution\Talabat.APIs\obj\Debug\net5.0\Talabat.APIs.RazorTargetAssemblyInfo.cache
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution\Talabat.APIs\obj\Debug\net5.0\Talabat.APIs.csproj.CopyComplete
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution\Talabat.APIs\obj\Debug\net5.0\Talabat.APIs.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution\Talabat.APIs\obj\Debug\net5.0\refint\Talabat.APIs.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution\Talabat.APIs\obj\Debug\net5.0\Talabat.APIs.pdb
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution\Talabat.APIs\obj\Debug\net5.0\Talabat.APIs.genruntimeconfig.cache
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution\Talabat.APIs\obj\Debug\net5.0\ref\Talabat.APIs.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution\Talabat.APIs\bin\Debug\net5.0\AutoMapper.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution\Talabat.APIs\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution\Talabat.APIs\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution\Talabat.APIs\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution\Talabat.APIs\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution\Talabat.APIs\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution\Talabat.APIs\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution\Talabat.APIs\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution\Talabat.APIs\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution\Talabat.APIs\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution\Talabat.APIs\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution\Talabat.APIs\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution\Talabat.APIs\bin\Debug\net5.0\Talabat.Service.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution\Talabat.APIs\bin\Debug\net5.0\Talabat.Service.pdb
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution\Talabat.APIs\bin\Debug\net5.0\Microsoft.Extensions.Caching.Redis.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution\Talabat.APIs\bin\Debug\net5.0\StackExchange.Redis.StrongName.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution\Talabat.APIs\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution\Talabat.APIs\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution\Talabat.APIs\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution\Talabat.APIs\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.APIs\bin\Debug\net5.0\appsettings.Development.json
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.APIs\bin\Debug\net5.0\appsettings.json
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.APIs\bin\Debug\net5.0\Talabat.APIs.exe
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.APIs\bin\Debug\net5.0\Talabat.APIs.deps.json
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.APIs\bin\Debug\net5.0\Talabat.APIs.runtimeconfig.json
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.APIs\bin\Debug\net5.0\Talabat.APIs.runtimeconfig.dev.json
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.APIs\bin\Debug\net5.0\Talabat.APIs.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.APIs\bin\Debug\net5.0\Talabat.APIs.pdb
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.APIs\bin\Debug\net5.0\AutoMapper.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.APIs\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.APIs\bin\Debug\net5.0\Humanizer.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.APIs\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.APIs\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.APIs\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.APIs\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.APIs\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.APIs\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.APIs\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.APIs\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.APIs\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.APIs\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.APIs\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.APIs\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.APIs\bin\Debug\net5.0\Microsoft.Extensions.Caching.Redis.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.APIs\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.APIs\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.APIs\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.APIs\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.APIs\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.APIs\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.APIs\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.APIs\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.APIs\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.APIs\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.APIs\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.APIs\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.APIs\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.APIs\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.APIs\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.APIs\bin\Debug\net5.0\StackExchange.Redis.StrongName.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.APIs\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.APIs\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.APIs\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.APIs\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.APIs\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.APIs\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.APIs\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.APIs\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.APIs\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.APIs\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.APIs\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.APIs\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.APIs\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.APIs\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.APIs\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.APIs\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.APIs\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.APIs\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.APIs\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.APIs\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.APIs\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.APIs\bin\Debug\net5.0\Talabat.Core.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.APIs\bin\Debug\net5.0\Talabat.Repository.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.APIs\bin\Debug\net5.0\Talabat.Service.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.APIs\bin\Debug\net5.0\Talabat.Repository.pdb
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.APIs\bin\Debug\net5.0\Talabat.Service.pdb
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.APIs\bin\Debug\net5.0\Talabat.Core.pdb
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.APIs\obj\Debug\net5.0\Talabat.APIs.csproj.AssemblyReference.cache
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.APIs\obj\Debug\net5.0\Talabat.APIs.GeneratedMSBuildEditorConfig.editorconfig
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.APIs\obj\Debug\net5.0\Talabat.APIs.AssemblyInfoInputs.cache
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.APIs\obj\Debug\net5.0\Talabat.APIs.AssemblyInfo.cs
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.APIs\obj\Debug\net5.0\Talabat.APIs.csproj.CoreCompileInputs.cache
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.APIs\obj\Debug\net5.0\Talabat.APIs.MvcApplicationPartsAssemblyInfo.cs
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.APIs\obj\Debug\net5.0\Talabat.APIs.MvcApplicationPartsAssemblyInfo.cache
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.APIs\obj\Debug\net5.0\scopedcss\bundle\Talabat.APIs.styles.css
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.APIs\obj\Debug\net5.0\staticwebassets\Talabat.APIs.StaticWebAssets.Manifest.cache
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.APIs\obj\Debug\net5.0\staticwebassets\Talabat.APIs.StaticWebAssets.Pack.cache
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.APIs\obj\Debug\net5.0\staticwebassets\msbuild.Talabat.APIs.Microsoft.AspNetCore.StaticWebAssets.props
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.APIs\obj\Debug\net5.0\staticwebassets\msbuild.build.Talabat.APIs.props
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.APIs\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Talabat.APIs.props
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.APIs\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Talabat.APIs.props
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.APIs\obj\Debug\net5.0\Talabat.APIs.RazorTargetAssemblyInfo.cache
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.APIs\obj\Debug\net5.0\Talabat.APIs.csproj.CopyComplete
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.APIs\obj\Debug\net5.0\Talabat.APIs.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.APIs\obj\Debug\net5.0\refint\Talabat.APIs.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.APIs\obj\Debug\net5.0\Talabat.APIs.pdb
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.APIs\obj\Debug\net5.0\Talabat.APIs.genruntimeconfig.cache
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.APIs\obj\Debug\net5.0\ref\Talabat.APIs.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.APIs\bin\Debug\net5.0\Microsoft.OpenApi.Readers.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.APIs\bin\Debug\net5.0\SharpYaml.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\New Trial March\Talabat.APIs.Solution_Assignment_04\Talabat.APIs\bin\Debug\net5.0\Swashbuckle.AspNetCore.Newtonsoft.dll

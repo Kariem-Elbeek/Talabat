@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Talabat.Repository
+build_property.ProjectDir = E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\08 ASP.NET Web APIs\API Project\Talabat.APIs.Solution.final\Talabat.Repository\
